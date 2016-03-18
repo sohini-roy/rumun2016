@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.sendfile('../views/index.html');
+  res.sendFile(path.resolve('../views/index.html'));
 };
