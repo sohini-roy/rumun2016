@@ -133,7 +133,12 @@ var SampleApp = function() {
         // Create the express server and routes.
         self.initializeServer();
     };
+    self.configure(function(){
+        self.use(express.bodyParser());
+        self.use(express.methodOverride());
 
+        self.use(express.static(__dirname + '/public'));
+    });
 
     /**
      *  Start the server (starts up the sample application).

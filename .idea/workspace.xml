@@ -2,468 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed98642-7afc-4d5f-b16d-0a0a539eb492" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/blog-posts/a4-paper-mockup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/blog-posts/coffee.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/blog-posts/drink-milk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/blog-posts/droning-around.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/blog-posts/new-office.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/blog-posts/promoting-yoga.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/pages/privacy-policy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/works/a-joe-book-cover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/works/heisenberg-ice-cream.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/works/old-fashioned.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/works/parks-and-rec.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/works/rubiks-triangle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/ajax/works/wooden-series.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/credits.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/images/pi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/libs/prism/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/libs/prism/prism.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/styles/css/docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/styles/css/docs.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/docs/styles/sass/docs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-152x152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-180x180.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-76x76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/favicon-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/mstile-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/mstile-310x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/mstile-310x310.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/favicons/mstile-70x70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/a4-paper-mockup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/bottles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/building.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/drone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/droning-around-detail/heavy-drone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/new-office-detail/interior-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/new-office-detail/interior-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/blog/yoga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/team/121H.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/team/166H.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/team/172H.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/team/93H.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/books.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/clock-detail/clock-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/clock-detail/future-clock.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/clock-detail/microchip.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/clock-detail/mp3-clock.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/ice-cream-detail/beta-testing-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/ice-cream-detail/beta-testing-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/ice-cream.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/object.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/tape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/images/works/trees.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/.scrutinizer.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/PHPMailerAutoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/VERSION" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/class.phpmailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/class.pop3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/class.smtp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/Callback_function_notes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/DomainKeys_notes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/Note_for_SMTP_debugging.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/extending.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/generatedocs.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/docs/pop3_article.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/code_generator.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/contents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/contentsutf8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/exceptions.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/gmail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/images/phpmailer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/images/phpmailer_mini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/mail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/mailing_list.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/pop_before_smtp.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/scripts/XRegExp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/scripts/shAutoloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/scripts/shBrushPhp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/scripts/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/scripts/shLegacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/send_file_upload.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/sendmail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/smtp.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/smtp_check.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/smtp_no_auth.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/ssl_options.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shCoreRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeAppleScript.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/shThemeVisualStudio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/examples/styles/wrapping.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/extras/EasyPeasyICS.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/extras/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/extras/htmlfilter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/extras/ntlm_sasl_client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-am.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-az.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-be.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-bg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-br.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ca.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-cz.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-de.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-dk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-el.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-eo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-es.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-et.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-fa.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-fi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-fo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-fr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-gl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-he.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-hr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-hu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-id.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-it.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ja.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ka.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ko.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-lt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-lv.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-nl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-no.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-pl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-pt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-ru.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-se.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-sk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-sl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-sr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-tr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-uk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-vi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-zh.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/language/phpmailer.lang-zh_cn.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/fakepopserver.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/fakesendmail.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/phpmailerLangTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/phpmailerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/runfakepopserver.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/test_callback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/test/testbootstrap-dist.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/PHPMailer/travis.phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/MINIFY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/ajaxchimp.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/jquery.ajaxchimp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/jquery.ajaxchimp.langs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/jquery.ajaxchimp.langs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/jquery.ajaxchimp.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/ajaxchimp/npm-debug.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/_bourbon-deprecated-upcoming.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/_bourbon.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_border-color.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_border-style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_border-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_ellipsis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_font-stacks.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_hide-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_margin.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_padding.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_position.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_prefixer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_retina-image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_text-inputs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_timing-functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_triangle.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/addons/_word-wrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_animation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_appearance.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_backface-visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_background-image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_background.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_border-image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_calc.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_columns.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_flex-box.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_font-face.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_font-feature-settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_hidpi-media-query.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_hyphens.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_image-rendering.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_keyframes.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_linear-gradient.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_perspective.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_placeholder.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_radial-gradient.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_selection.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_text-decoration.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_transform.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_transition.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/css3/_user-select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_assign-inputs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_contains-falsy.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_contains.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_is-length.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_is-light.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_is-number.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_is-size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_modular-scale.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_px-to-em.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_px-to-rem.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_shade.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_strip-units.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_tint.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_transition-property-name.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/functions/_unpack.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_convert-units.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_directional-values.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_font-source-declaration.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_gradient-positions-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_linear-angle-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_linear-gradient-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_linear-positions-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_linear-side-corner-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_radial-arg-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_radial-gradient-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_radial-positions-parser.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_render-gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_shape-size-stripper.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/helpers/_str-to-num.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/settings/_asset-pipeline.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/settings/_prefixer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/bourbon/settings/_px-to-em.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/imagesloaded.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/imagesloaded.pkgd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/imagesloaded/imagesloaded.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/isinviewport/isInViewport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/isinviewport/isInViewport.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/jquery/jquery-2.1.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/jquery/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/dist/masonry.pkgd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/dist/masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/masonry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/bottom-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/browserify/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/browserify/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/element-sizing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/fit-width.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/require-js/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/require-js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/right-to-left.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/sandbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/masonry/sandbox/stamps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/css/materialize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/css/materialize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/material-design-icons/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/material-design-icons/Material-Design-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/material-design-icons/Material-Design-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/material-design-icons/Material-Design-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Medium.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Medium.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Thin.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/font/roboto/Roboto-Thin.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/js/materialize.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/js/materialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/materialize/js/materialize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/minified/ScrollMagic.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/minified/plugins/animation.gsap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/minified/plugins/animation.velocity.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/minified/plugins/debug.addIndicators.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/minified/plugins/jquery.ScrollMagic.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/uncompressed/plugins/animation.velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/scrollmagic/scrollmagic/uncompressed/plugins/jquery.ScrollMagic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/shufflejs/jquery.shuffle.modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/shufflejs/jquery.shuffle.modernizr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/build/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/js/triangles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/js/triangles.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/CanvasRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Color.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Geometry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Light.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Material.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Math.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Mesh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Object.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Plane.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Renderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/SVGRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Scene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Triangle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Vector3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Vector4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/Vertex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/WebGLRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/dat.gui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/delaunay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/mousetrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/prefixfree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/libs/triangles/source/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/php/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/php/mail.template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/php/mailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/scripts/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/scripts/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/scripts/wata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/scripts/wata.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/css/wata.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/css/wata.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/css/wata.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/css/wata.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_about.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_ajax-box.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_card.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_colors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_common.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_contact.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_loaders.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_media-query-ranges.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_prices.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_services.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_tabs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_toast.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_triangles.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/_works.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/styles/sass/wata.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="rumun2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -483,22 +24,34 @@
     <favorites_list name="rumun2016" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54395604">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.928571">
+              <caret line="144" column="7" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7890411">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -514,6 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -553,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -568,7 +124,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rumun2016" />
+              <option name="myItemId" value="rumun" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -578,49 +134,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rumun2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rumun2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rumun2016" />
+              <option name="myItemId" value="rumun" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rumun2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rumun2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -642,9 +165,50 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="928" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -662,20 +226,20 @@
     <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -689,18 +253,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/npm-debug.log">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32307693">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -713,10 +269,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32307693">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54395604">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.928571">
+          <caret line="144" column="7" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7890411">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
