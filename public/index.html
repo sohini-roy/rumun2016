@@ -191,27 +191,47 @@
         </div>
 
         <!-- Works section -->
-        <div class="section scrollspy" id="works">
+        <div class="section scrollspy wide-container" id="works">
             <div class="container">
                 <div class="row">
-                    <h2>Our works</h2>
-                    <!-- Category filter buttons -->
-                    <div class="filter-options">
-                        <a class="btn-flat waves-green-accent waves-effect active" id="all" data-group="all">Everything</a>
-                        <a class="btn-flat waves-green-accent waves-effect" data-group="material">Material</a>
-                        <a class="btn-flat waves-green-accent waves-effect" data-group="food">Food</a>
-                        <a class="btn-flat waves-green-accent waves-effect" data-group="digital">Digital</a>
+                    <h2>Committees</h2>
+                </div>
+
+                <div class="row services">
+                    <div class="col s12 l3">
+
+                        <div class="divider"></div>
+
+                        <a href="ajax/works/agenda.html" class="btn waves-effect waves-dark white black-text ajax-link">Agenda</a>
+                    </div>
+                    <div class="col s12 l3">
+
+                        <div class="divider"></div>
+
+                        <a href="ajax/works/details.html" class="btn waves-effect waves-dark white black-text ajax-link">Details</a>
+                    </div>
+                    <div class="col s12 l3">
+
+                        <div class="divider"></div>
+
+                        <a href="ajax/works/board.html" class="btn waves-effect waves-dark white black-text ajax-link">Executive Board</a>
+                    </div>
+                    <div class="col s12 l3">
+
+                        <div class="divider"></div>
+
+                        <a href="ajax/works/matrix.html" class="btn waves-effect waves-dark white black-text ajax-link">Country Matrix</a>
                     </div>
                 </div>
             </div>
-            <div class="wide-container">
-                <!-- Shuffle grid -->
+            <div class="wide-container" hidden=true>
+                 Shuffle grid
                 <div id="shuffle-grid" class="row">
                     <a href="ajax/works/heisenberg-ice-cream.html" class="col s12 m6 l4 picture-item ajax-link" data-groups='["food"]'>
                         <img src="images/works/ice-cream.png" class="responsive-img" alt="Ice cream">
                         <h5>Heisenberg ice-cream</h5>
                     </a>
-                    <a href="ajax/works/a-joe-book-cover.html" class="col s12 m6 l4 picture-item ajax-link" data-groups='["material"]'>
+                    <a href="ajax/works/a-joe-book-cover.html" class="c picture-item ajax-link" data-groups='["material"]'>
                         <img src="images/works/books.png" class="responsive-img" alt="Book cover">
                         <h5>A. Joe book cover</h5>
                     </a>
