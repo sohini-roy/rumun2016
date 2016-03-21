@@ -1,0 +1,32 @@
+.coucntDown {
+  text-align: center;
+  background: #00ECB9;
+  font-family: sans-serif;
+  font-weight: 100; }
+  .countDown h1 {
+    color: #396;
+    font-weight: 100;
+    font-size: 40px;
+    margin: 40px 0px 20px; }
+  .countDown #clockdiv {
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px; }
+  .countDown #clockdiv > div {
+    padding: 10px;
+    border-radius: 3px;
+    background: #00BF96;
+    display: inline-block; }
+  .countDown #clockdiv div > span {
+    padding: 15px;
+    border-radius: 3px;
+    background: #00816A;
+    display: inline-block; }
+  .countDown .smalltext {
+    padding-top: 5px;
+    font-size: 16px; }
+
+/*# sourceMappingURL=count.css.map */
