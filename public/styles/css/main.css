@@ -43,3 +43,26 @@
 .social > a{
   margin : 0.5em;
 }
+#preloader{
+  background: #161616;
+  margin : auto;
+  padding:auto;
+}
+.status{
+  opacity: 1;
+  width: 58%;
+  margin: auto;
+}
+.status > img{
+  width : 100%;
+  height: 100%;
+  margin: auto;
+}
+/*.status {
+	background: url("/GIF.gif") no-repeat scroll 0 0  rgba(0, 0, 0, 0);
+	height: 100%;
+	margin: auto;
+	opacity: 1;
+	position: relative;
+	width: 58%;
+}*/
