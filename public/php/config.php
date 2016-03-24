@@ -1,15 +1,15 @@
 <?php
 	
 $me = array(
-    'email' => 'yegorborisenco@gmail.com',
-    'name' => 'Yegor Borisenco'
+    'email' => 'rumun2k16@gmail.com',
+    'name' => 'Ravenshaw MUN'
 );
 
 $smtp = array(
-    'enabled' => false,
+    'enabled' => true,
     'host' => 'smtp.gmail.com',
-    'username' => 'yegorborisenco@gmail.com',
-    'password' => 'net1818work',
+    'username' => 'rumun2k16@gmail.com',
+    'password' => 'rumunlove',
     'port' => 587,
     'tls' => true
 );
