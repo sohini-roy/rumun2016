@@ -10,32 +10,12 @@
     <!-- Hide the browser UI -->
     <meta name="apple-mobile-web-app-capable" content="yes">
 
-    <!-- MS tile icons -->
-    <meta name="msapplication-TileColor" content="#69f0ae">
-    <meta name="msapplication-TileImage" content="favicons/favicon.ico">
+    <!-- FAVICON -->
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
 
     <!-- Android toolbar color -->
     <meta name="theme-color" content="#69f0ae">
-
-    <!-- Apple touch icons -->
-    <link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon-180x180.png">
-
-    <!-- Android touch icons -->
-    <link rel="icon" type="image/png" href="favicons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="favicons/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="favicons/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="favicons/favicon-16x16.png" sizes="16x16">
-
-    <!-- Web app manifest file -->
-    <link rel="manifest" href="favicons/manifest.json">
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="libs/materialize/css/materialize.min.css">
@@ -44,7 +24,6 @@
     <link rel="stylesheet" href="styles/sass/count.css">
     <link rel="stylesheet" type="text/css" href="/styles/css/datatables.css">
     <link rel="stylesheet" href="styles/css/main.css">
-
 
     <!-- Site title -->
     <title>RUMUN 2016</title>
@@ -68,6 +47,7 @@
                 </div>
             </div>
         </div>-->
+
         <div id="preloader" class="valign-wrapper">
             <div class="status">
               <img src="/GIF.gif" alt="Please wait..." />
@@ -105,23 +85,21 @@
                     <!-- Static menu -->
                     <ul class="right hide-on-med-and-down table-of-contents">
                       <li><a href="#services">About Us</a></li>
-                      <li><a href="#works">Committees</a></li>
-                      <li><a href="#blog">Allotments</a></li>
-                      <li><a href="#register">Register</a></li>
-                      <li><a href="#prices">Payment</a></li>
-                      <li><a href="../team/index.html">Team</a></li>
+                      <li><a href="#works">Allotments</a></li>
+                      <li><a href="#blog">Committees</a></li>
+                      <li><a href="#prices">Register</a></li>
                       <li><a href="#contact">Contact Us</a></li>
+                      <li><a href="./team/">Team</a></li>
                     </ul>
 
-                    <!-- Mobile menu, make sure it is equal to the statis menu -->
+                    <!-- Mobile menu, make sure it is equal to the static menu -->
                     <ul class="side-nav" id="mobile-menu">
                         <li><a href="#services">About Us</a></li>
-                        <li><a href="#works">Committees</a></li>
-                        <li><a href="#blog">Allotments</a></li>
-                        <li><a href="#register">Register</a></li>
-                        <li><a href="#prices">Payment</a></li>
-                        <li><a href="#about">Team</a></li>
+                        <li><a href="#works">Allotments</a></li>
+                        <li><a href="#blog">Committees</a></li>
+                        <li><a href="#prices">Register</a></li>
                         <li><a href="#contact">Contact Us</a></li>
+                        <li><a href="./team/">Team</a></li>
                     </ul>
                 </div>
             </nav>
@@ -146,10 +124,8 @@
                 </div>
             </div>
         </div>
-        <!-- <div style='position: relative; width: 100%; height: 0px; padding-bottom: 60%;'>
-            <
-      </div> -->
         <br>
+
         <section class="countDown">
             <div id="clockdiv">
                 <div>
@@ -171,7 +147,6 @@
             </div>
             <script src="scripts/count.js"></script>
         </section>
-
 
         <!-- Services section -->
         <div class="section scrollspy" id="services">
@@ -199,19 +174,19 @@
 
                     </div>
                 </div>
+
                 <div class="row">
                   <div class="col s12 l12">
-
                     <center>
                       <a href="ajax/works/sec.html" class="btn waves-effect waves-dark white black-text ajax-link">From the General Secretary's Desk</a>
                     </center>
                   </div>
                 </div>
+                <br>
+
                 <div class="int-cont">
                   <iframe src="./slider/slider.html" frameborder="0" width="100%" height="100%" allowfullscreen></iframe>
                 </div>
-
-
 
             </div>
         </div>
@@ -224,7 +199,7 @@
         <div class="section scrollspy wide-container" id="works">
             <div class="container">
                 <div class="row">
-                    <h2>Committees</h2>
+                    <h2>Allotments</h2>
                 </div>
 
                 <div class="row services">
@@ -288,7 +263,7 @@
         <div class="section scrollspy" id="blog">
             <div class="container">
                 <div class="row">
-                    <h2>ALLOTMENTS</h2>
+                    <h2>Committees</h2>
                     <!-- <div class="col s12 m10 offset-m1 l8 offset-l2">
                         <p class="flow-text center-align">
                             Want to get a little more personal? Read our stories, meet the team and get a preview of the future
@@ -421,12 +396,12 @@
         <div class="section scrollspy" id="prices">
             <div class="container">
                 <div class="row">
-                    <h2>Payment</h2>
+                    <h2>Register</h2>
                     <div class="col s12 m10 offset-m1 l8 offset-l2">
                         <p class="flow-text center-align">
                             Coming Soon
                         </p>
-                   </div>
+                    </div>
                     <!--<div class="col s12">
 
                         <p class="right-align currency-switcher">
@@ -490,8 +465,8 @@
                             </ul>
                             <a class="waves-effect waves-dark white black-text btn">Choose</a>
                         </div>
-                    </div>
-                </div>-->
+                    </div> -->
+                </div>
             </div>
         </div>
 
@@ -500,7 +475,7 @@
         </div>
 
         <!-- About section -->
-        <!--<div class="section scrollspy" id="about">
+        <div class="section scrollspy" id="about" style="display:none">
             <div class="container">
                 <div class="row">
                     <h2>Meet our Team</h2>
@@ -615,7 +590,7 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
 
         <div class="container">
             <div class="divider"></div>
