@@ -70,11 +70,12 @@
   padding-bottom: 0px;
 }
 #logoicon{
+  margin-top: 10%;
   width : 100%;
 }
 @font-face {
     font-family: "Rumun";
-    src: url('/RUMUN.TTF') format("truetype");
+    src: url('/RUMUN.ttf') format("truetype");
 }
 h1,h2, h3, h4, h5, h6 {
   font-family: 'Rumun';
