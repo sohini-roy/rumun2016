@@ -15,9 +15,11 @@ $("#contact-form").submit(function(e){
          success: function(data){
            if(data.err){
              console.log(data.msg);
+             Materialize.toast('There was some problem. Please try again later', 4000);
            }else{
              $('#contact-form').trigger("reset");
              console.log("Successfully sent mail");
+             Materialize.toast('Message Succesfully Sent', 4000);
            }
          }
     });
