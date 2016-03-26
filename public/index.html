@@ -639,8 +639,8 @@
                         </p>
                     </div>
                 </div>
-                <div class="row" hidden="true">
-                    <form class="col s12 m12 l8 offset-l2" action="php/mailer.php" id="contact-form" novalidate>
+                <div class="row">
+                    <form class="col s12 m12 l8 offset-l2" method="post" action='/sendmail' id="contact-form" novalidate action='#'>
                         <!-- This field helps us avoid spam bots, don't remove it -->
                         <div class="cant-touch-this">
                             <input type="text" name="hammertime" tabindex="-1" value="">
@@ -648,12 +648,12 @@
                         <!-- End of anti-spam field -->
                         <div class="row">
                             <div class="input-field col s6">
-                                <input id="first-name" name="first-name" type="text" class="required">
-                                <label for="first-name">First name</label>
+                                <input id="first-name" name="first_name" type="text" class="required">
+                                <label for="first_name">First name</label>
                             </div>
                             <div class="input-field col s6">
-                                <input id="last-name" name="last-name" type="text">
-                                <label for="last-name">Last name</label>
+                                <input id="last-name" name="last_name" type="text">
+                                <label for="last_name">Last name</label>
                             </div>
                         </div>
                         <div class="row">
@@ -669,7 +669,7 @@
                             </div>
                         </div>
                         <div class="center-align">
-                            <button type="submit" name="send" class="btn-large disabled">
+                            <button type="submit" name='submit' class="btn-large disabled">
                                 Send
                             </button>
                         </div>
@@ -768,9 +768,9 @@
     <script src="scripts/config.js"></script>
     <script src="scripts/build.js"></script>
     <script src="scripts/count.js"></script>
-
     <script type="text/javascript" charset="utf8" src="/scripts/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="/scripts/datatables.js"></script>
-
+    <script type="text/javascript" src="/scripts/main.js">
+    </script>
 </body>
 </html>
