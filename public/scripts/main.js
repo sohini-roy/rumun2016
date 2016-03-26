@@ -9,8 +9,8 @@ if(ele.addEventListener){
 $("#contact-form").submit(function(e){
     var form = $(this);
     $.ajax({
-         url   : form.attr('action'),
-         type  : form.attr('method'),
+         url   : '/sendmail',
+         type  : 'post',
          data  : form.serialize(), // data to be submitted
          success: function(data){
            if(data.err){
@@ -18,6 +18,9 @@ $("#contact-form").submit(function(e){
              Materialize.toast('There was some problem. Please try again later', 4000);
            }else{
              $('#contact-form').trigger("reset");
+             $('#contact-form').find('.btn-large').removeClass();
+             $('#contact-form').find('button').addClass('btn-large');
+             $('#contact-form').find('button').addClass('disabled');
              console.log("Successfully sent mail");
              Materialize.toast('Message Succesfully Sent', 4000);
            }
