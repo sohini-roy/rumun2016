@@ -15,14 +15,11 @@ var transport = require('nodemailer-smtp-transport');
 var Transporter = nodemailer.createTransport(transport(config));
   //body
 var bodyParser = require("body-parser");
-
-
 app.configure(function(){
   app.use(bodyParser.urlencoded({ extended: false }));
   app.use(bodyParser.json());
   app.use(express.bodyParser());
   app.use(express.methodOverride());
-
   app.use(express.static(__dirname + '/public'));
   });
 
@@ -36,7 +33,7 @@ app.configure('production', function(){
 
 // Routes
 
-app.get('/', routes.index);
+
 
 //send mail function
 app.post('/sendmail',function(req,res,next){
@@ -60,6 +57,9 @@ app.post('/sendmail',function(req,res,next){
       res.send({err : false});
     }
   });
+});
+app.get('*',function(req,res,next){
+  res.redirect('/404.html')
 });
 var server_port = process.env.OPENSHIFT_NODEJS_PORT || 8080
 var server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
