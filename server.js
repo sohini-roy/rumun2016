@@ -44,8 +44,8 @@ app.post('/sendmail',function(req,res,next){
     sender : req.body.email ,
     to : "rumun2k16@gmail.com" ,
     replyTo : req.body.email ,
-    subject : "Query regarding RUMUN" ,
-    text : req.body.message
+    subject : "Query from Contact Us form" ,
+    text : req.body.message;
   }
   console.log(mail);
   Transporter.sendMail(mail, function(error, info){
@@ -58,6 +58,7 @@ app.post('/sendmail',function(req,res,next){
     }
   });
 });
+//If the server does not get any route , it will redirect to 404 page.
 app.get('*',function(req,res,next){
   res.redirect('/404.html')
 });
