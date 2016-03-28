@@ -45,7 +45,7 @@ app.post('/sendmail',function(req,res,next){
     to : "rumun2k16@gmail.com" ,
     replyTo : req.body.email ,
     subject : "Query from Contact Us form" ,
-    text : req.body.message;
+    text : req.body.message
   }
   console.log(mail);
   Transporter.sendMail(mail, function(error, info){
