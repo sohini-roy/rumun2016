@@ -42,9 +42,9 @@ app.post('/sendmail',function(req,res,next){
   var mail = {
     from : req.body.first_name + " " + req.body.last_name + " <" + req.body.email + ">" ,
     sender : req.body.email ,
-    to : "rumun2k16@gmail.com" ,
+    to : "ravenshawmun2016@gmail.com" ,
     replyTo : req.body.email ,
-    subject : "Query from Contact Us form" ,
+    subject : "QUERY FROM RUMUN WEBSITE" ,
     text : req.body.message
   }
   console.log(mail);
