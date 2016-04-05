@@ -1,0 +1,77 @@
+.ignite-cta {
+    background-color: #f3f5f8;
+}
+
+.ignite-btn {
+    display: inline-block;
+    padding: 25px 40px;
+    color: #fff;
+    border: solid 1px #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.ignite-btn:hover, .ignite-btn:focus {
+    color: #3dc9b3;
+    border: solid 1px #3dc9b3;
+}
+
+.sponsor {
+    margin-top: 60px;
+}
+
+#slider1_container{
+    margin:0 auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 56px;
+    overflow: hidden;
+    margin:3% auto 0%;
+}
+
+.inner_carousal{
+    cursor: move;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 980px;
+    height: 100px;
+    overflow: hidden;
+}
+
+ul.planContainer:hover {
+    -webkit-transform: scale(1.04);
+    -moz-transform: scale(1.04);
+    -ms-transform: scale(1.04);
+    -o-transform: scale(1.04);
+    transform: scale(1.04);
+}
+
+ul.planContainer {
+    -webkit-transition: all .25s;
+    -moz-transition: all .25s;
+    -ms-transition: all .25s;
+    -o-transition: all .25s;
+    transition: all .25s;
+}
+
+.planContainer .button a {
+    -webkit-transition: all .25s;
+    -moz-transition: all .25s;
+    -ms-transition: all .25s;
+    -o-transition: all .25s;
+    transition: all .25s;
+}
+
+.planContainer .button a:hover {
+    background: #212739;
+    color: #fff;
+}
+
+.planContainer a.bestPlanButton:hover {
+    background: #fb1b35;
+    color: #fff;
+}
