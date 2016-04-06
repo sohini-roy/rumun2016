@@ -1,3 +1,8 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
-
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
+The official website for Ravenshaw University Model United Nations 2016.
+Packages used :
+  Node server
+  Express framework
+  Node-mailer
+  Google analytics
+  Jquery support
+  Datatables
